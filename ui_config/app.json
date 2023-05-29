@@ -1,0 +1,105 @@
+{
+  "activeTopNav": "Stays",
+  "activeSideNav": "All Homes",
+  "staysList": [
+    {
+      "imgURL": "https://i.postimg.cc/8ky4KsKZ/stay1.jpg",
+      "name": "Torino, Italy",
+      "location": "Stay with Carmela. Hosting for 7 years",
+      "rating": "4.87",
+      "price": "$4,470",
+      "priceType": "/ night"
+    },
+    {
+      "imgURL": "https://i.postimg.cc/mk6St6zv/stay2.jpg",
+      "name": "Valencia, Spain",
+      "location": "Stay with sagrario. Coach",
+      "rating": "4.7",
+      "price": "$3,471",
+      "priceType": "/ night"
+    },
+    {
+      "imgURL": "https://i.postimg.cc/wMBVxdv5/stay3.jpg",
+      "name": "Milan, Italy",
+      "location": "Stay with Valentina",
+      "rating": "5.0",
+      "price": "$10,000",
+      "priceType": "/ night"
+    },
+    {
+      "imgURL": "https://i.postimg.cc/9MbbjfWF/stay4.jpg",
+      "name": "Numero 22 - Lake Como - Design Living & Lake View",
+      "location": "Lagilo, Lombardia, Italy",
+      "rating": "4.99",
+      "price": "$359",
+      "priceType": "/ night"
+    },
+    {
+      "imgURL": "https://i.postimg.cc/xjb874gB/stay5.jpg",
+      "name": "7,200 sq ft Private Beachfront Estate ",
+      "location": "Dubai, United Arab Emirates",
+      "rating": "4.73",
+      "price": "$2,574",
+      "priceType": "/ night"
+    },
+    {
+      "imgURL": "https://i.postimg.cc/kX3GdvpG/stay6.jpg",
+      "name": "Bohemian & Spacious / Private Pool and Garden",
+      "location": "Tulum, Quintana Roo, Mexico",
+      "rating": "4.97",
+      "price": "$199",
+      "priceType": "/ night"
+    },
+    {
+      "imgURL": "https://i.postimg.cc/tT8TJ3Rr/stay7.jpg",
+      "name": "Designer A-Frame Cabin in the Trees",
+      "location": "Lake Arrowhead, California, United States",
+      "rating": "4.93",
+      "price": "$225",
+      "priceType": "/ night"
+    },
+    {
+      "imgURL": "https://i.postimg.cc/tTsJ9SbZ/stay8.jpg",
+      "name": "Fully Renovated 2 BR on River w/Pool",
+      "location": "Aspen, Colorado, United States",
+      "rating": "5.0",
+      "price": "$10,000",
+      "priceType": "/ night"
+    }
+  ],
+  "sideNav": [
+    {
+      "icon": "AirbnbShortIcon",
+      "title": "All Homes"
+    },
+    {
+      "icon": "IconDoor",
+      "title": "Amazing Views"
+    },
+    {
+      "icon": "IconHome",
+      "title": "Tiny Homes"
+    },
+    {
+      "icon": "IconSurfing",
+      "title": "Surfing"
+    },
+    {
+      "icon": "IconTree",
+      "title": "Tree House"
+    },
+    {
+      "icon": "IconGrape",
+      "title": "Vineyards"
+    },
+    {
+      "icon": "IconCactus",
+      "title": "Desert"
+    }
+  ],
+  "topNavList": [
+    {"title":  "Stays"},
+    {"title":  "Experiences"},
+    {"title":  "Online Experiences"}
+  ]
+}

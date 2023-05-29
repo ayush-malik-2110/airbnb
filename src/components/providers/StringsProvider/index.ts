@@ -1,0 +1,1 @@
+export { StringsProvider } from './StringsProvider';
